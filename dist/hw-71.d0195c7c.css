@@ -1,0 +1,10 @@
+.country-title {
+  align-items: center;
+  gap: 10px;
+  display: flex;
+}
+
+.country-card img {
+  border: 1px solid #ccc;
+}
+/*# sourceMappingURL=hw-71.d0195c7c.css.map */

@@ -1,0 +1,9 @@
+.country-title {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.country-card img {
+  border: 1px solid #ccc;
+}

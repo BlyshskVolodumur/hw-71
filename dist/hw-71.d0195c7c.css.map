@@ -1,0 +1,1 @@
+{"mappings":"AAAA;;;;;;AAMA","sources":["styles.css"],"sourcesContent":[".country-title {\n  display: flex;\n  align-items: center;\n  gap: 10px;\n}\n\n.country-card img {\n  border: 1px solid #ccc;\n}\n"],"names":[],"version":3,"file":"hw-71.d0195c7c.css.map","sourceRoot":"/__parcel_source_root/"}
